@@ -64,5 +64,16 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-SpamCop is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://spamcop.net/
+SpamCop provides a service that allows users to report spam emails, helping to identify the origin of unwanted messages and notifying the responsible Internet service providers. By aggregating these reports, SpamCop contributes to broader spam filtering efforts and improves email deliverability. The platform offers a public DNS-based blocking list that can be integrated into mail servers for free spam protection, and it supplies tools and documentation for users and administrators to manage spam reporting and filtering.
+
+**Areas:** Spam · Email · Security · Anti-spam · Reporting
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://spamcop.net/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/spamcop/](https://apis.io/providers/spamcop/).
